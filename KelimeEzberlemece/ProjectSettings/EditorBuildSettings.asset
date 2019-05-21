@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 8b182c6a7528c4c43ae539e72c83d387
+  - enabled: 1
+    path: Assets/Scenes/AddWordScene.unity
+    guid: 91252c00edb2fa847ae45a0ee71fcc63
+  - enabled: 1
+    path: Assets/Scenes/LearningWordsScene.unity
+    guid: 640666844b416ac499af2002eb646a14
+  - enabled: 1
+    path: Assets/Scenes/LearnedWordsScene.unity
+    guid: 80b36bdff4401de419e1aa8e05f14a74
+  m_configObjects: {}
